@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Nig1-5MgU.aternos.me",
-    "port": 50625,
+    "ip": "Teyeyfv-iuOl.aternos.me",
+    "port": 44561,
     "version": "",
     "try-creative": false
   },
@@ -28,7 +28,7 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": true,
+      peat": true,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
